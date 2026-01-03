@@ -91,6 +91,7 @@ A complete **step‑by‑step video explanation** of this lab is provided, cover
 * Packet flow explanation
 
 📺 **Video Link:** *(add your YouTube link here)*
+https://youtu.be/e-0xJ0wJAjQ
 
 ---
 
